@@ -1,2 +1,2 @@
 # ITE3FinalProject
-Implementing User Authentication
+Final Project in Backend Development [BSIT3C] 
